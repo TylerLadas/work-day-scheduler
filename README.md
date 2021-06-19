@@ -33,7 +33,7 @@ THEN the saved events persist
 * Moment.JS
 
 ## Website
-
+https://tylerladas.github.io/work-day-scheduler/
 
 ## Contribution
 by Tyler Ladas
