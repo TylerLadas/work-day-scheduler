@@ -18,6 +18,7 @@ function timeAudit() {
     // loop through each time block
     $('.time-block').each(function() {
         // get numerical value from each hour id using parse(returns integer)) and replace(turn hour into empty string)
+        //could also use .split('hour')[1] instead of .replace
         let blockTime = parseInt($(this).attr('id').replace('hour', ''));
         // compare times to determine background color
         if (blockTime > currentTime) {
@@ -30,6 +31,7 @@ function timeAudit() {
     })     
 };
 
+// run timeAudit function
 timeAudit();
 
 //load stored tasks
