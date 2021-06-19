@@ -1,4 +1,5 @@
 # Work Day Scheduler
+![Screen Shot 2021-06-19 at 11 47 02 AM](https://user-images.githubusercontent.com/78171259/122647840-371a4c00-d0f4-11eb-932c-9ce1c69f1e09.png)
 
 ## Purpose
 Create a simple calendar application that allows a user to save events for each hour of the day.
